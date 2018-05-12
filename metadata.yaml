@@ -1,0 +1,27 @@
+_repo: The-Trial-and-Death-of-Jesus-ChristA-Devotional-History-of-our-Lord-s-Passion_21814
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stalker, James
+    birthdate: 1848
+    deathdate: 1927
+    gutenberg_agent_id: '24905'
+    url: http://www.gutenberg.org/2009/agents/24905
+description: ''
+gutenberg_issued: '2007-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Trial'
+- !lcc 'BT'
+- !lcsh 'Jesus Christ -- Crucifixion'
+title: 'The Trial and Death of Jesus Christ: A Devotional History of Our Lord''s Passion'
+url: http://www.gutenberg.org/ebooks/21814
